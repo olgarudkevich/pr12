@@ -1,6 +1,7 @@
 # pr12
 
 Завдання 1
+
 [students.txt](https://github.com/user-attachments/files/23297654/students.txt)
 #include <fstream>
 #include <string>
@@ -25,6 +26,7 @@ int main() {
 
 
 Завдання 2
+
 [students.txt](https://github.com/user-attachments/files/23297648/students.txt)
 #include <fstream>
 #include <string>
@@ -53,6 +55,7 @@ int main() {
 }
 
 Завдання 3
+
 [students.txt](https://github.com/user-attachments/files/23301599/students.txt)
 #include <fstream>
 #include <string>
@@ -92,6 +95,8 @@ int main() {
 }
 
 Завдання 4 
+
+[students.txt](https://github.com/user-attachments/files/23301750/students.txt)
 #include <fstream>
 #include <string>
 #include <iostream>
@@ -141,3 +146,5 @@ int main() {
     cout << "Кількість студентів зі стипендією: " << count << endl;
     fin_count.close(); 
 }
+
+Завдання 5
